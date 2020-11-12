@@ -1,7 +1,3 @@
-layout: page
-title: "home"
-permalink: /home/
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/JOtechcrew/docs/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
