@@ -7,12 +7,12 @@ Welcome teachers and students to a comprehensive overview of our technology.
 The auditorium contains modern lighting and sound controls.
 
 - **Sound**
- - 2x wireless microphones
- - a 16x XLR snake from the stage to the soundboard
+  - 2x wireless microphones
+  - a 16x XLR snake from the stage to the soundboard
    - 6x wired microphones 
- - A [brand] soundboard
- - 2x in-auditorium speakers
- - A router for wireless soundboard control
+  - A [brand] soundboard
+  - 2x in-auditorium speakers
+  - A router for wireless soundboard control
 
 - **Lighting**
   - 20x movable RGB Lights
@@ -26,18 +26,21 @@ The auditorium contains modern lighting and sound controls.
 
 ### Other technology
 - frontrow
- - 2x battery powered speakers
- - 1x wireless microphone
- - 1x wireless lapel microphone
+  - 2x battery powered speakers
+  - 1x wireless microphone
+  - 1x wireless lapel microphone
 - [brand] speakers
- - 2x LOUD speakers (require a power outlet)
- - soundboard
+  - 2x LOUD speakers (require a power outlet)
+  - soundboard
 - Various Miscelleny
- - wire covers
- - extension cords & power bars
- - dongles & various other cords
- - projector screens
-   - 1x regular size
-   - 1x large, inflatable
+  - wire covers
+  - extension cords & power bars
+  - dongles & various other cords
+  - projector screens
+    - 1x regular size
+    - 1x large, inflatable
+ 
+ &nbsp;
+ &nbsp;
  
  Last updated October 1, 2021
