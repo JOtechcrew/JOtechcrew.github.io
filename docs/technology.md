@@ -1,3 +1,7 @@
+layout: page
+title: "Tech Crew Information"
+permalink: /technology/
+
 # Tech Crew Information
 
 Welcome teachers and students to a comprehensive overview of our technology.
