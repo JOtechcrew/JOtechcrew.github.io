@@ -9,7 +9,6 @@ The auditorium contains modern lighting and sound controls.
 - **Sound**
   - 2x wireless microphones
   - a 16x XLR snake from the stage to the soundboard
-   - 6x wired microphones 
   - A [brand] soundboard
   - 2x in-auditorium speakers
   - A router for wireless soundboard control
@@ -20,12 +19,12 @@ The auditorium contains modern lighting and sound controls.
   - A [brand] lightboard
 
 - 2x 4k projectors
-- A retractable projector screen
+- Retractable projector screen
 
 - Sound equipment from the music department is also brought in during major events.
 
 ### Other technology
-- frontrow
+- frontrow speakers
   - 2x battery powered speakers
   - 1x wireless microphone
   - 1x wireless lapel microphone
@@ -34,13 +33,15 @@ The auditorium contains modern lighting and sound controls.
   - soundboard
 - Various Miscelleny
   - wire covers
-  - extension cords & power bars
-  - dongles & various other cords
+  - various power bars & extension cords
   - projector screens
     - 1x regular size
     - 1x large, inflatable
+  - 6x wired microphones
+  - many dongles & various other cords
+    - XLR, 3.5mm, etc.
  
  &nbsp;
  &nbsp;
  
- Last updated October 1, 2021
+ Last updated October 21, 2021
